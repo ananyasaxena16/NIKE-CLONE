@@ -66,5 +66,4 @@ A static & responsive replica of https://www.nike.com/in/ using React Library.
 
 ## Screenshots
 
-![Main Web PAge](src/Components/ScreenShots/M1.png)
-
+Screenshots are added in src->Components->ScreenShots
