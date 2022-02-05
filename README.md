@@ -66,5 +66,5 @@ A static & responsive replica of https://www.nike.com/in/ using React Library.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Main Web PAge](src/Components/ScreenShots/M1.png)
 
