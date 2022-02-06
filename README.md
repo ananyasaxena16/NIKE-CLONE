@@ -71,5 +71,6 @@ Screenshots are added in src->Components->ScreenShots
 ## Steps to run the project:
  * Clone this particular repository.
  * Open in your code editor.
- * In the terminal, type this: "npm start"
- Note: You Should Have Node and npm installed to your system.
+ * In the terminal, type this: "npm start".
+ 
+ Note: You Should Have Node, npm  and material UI installed to your system.
